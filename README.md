@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! 🚀
 
 This website showcases my journey as a Computer Science Engineering student, including my technical skills, projects, achievements, education, and interests in software development.
 
-🔗 **Live Portfolio:** [View My Portfolio](YOUR_GITHUB_PAGES_LINK)
+🔗 **Live Portfolio:** [View My Portfolio](https://vishwakarmasneha846-max.github.io/Portfolio/)
 
 ---
 
@@ -71,6 +71,7 @@ A clean and responsive calculator built using fundamental web technologies.
 
 🔗 **Repository:**  
 [Calculator App](https://github.com/vishwakarmasneha846-max/Calculator-app)
+
 🌐 **Live Demo:**  
 [Open WeatherWise](https://vishwakarmasneha846-max.github.io/WeatherWise/)
 
