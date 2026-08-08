@@ -12,7 +12,7 @@ This website showcases my journey as a Computer Science Engineering student, inc
 
 ## ✨ About Me
 
-Hi! I'm **Sneha **, a Computer Science Engineering student at **Vellore Institute of Technology (VIT), Chennai**.
+Hi! I'm **Sneha**, a Computer Science Engineering student at **Vellore Institute of Technology (VIT), Chennai**.
 
 I enjoy learning new technologies, building practical projects, and turning ideas into working solutions.
 
@@ -71,6 +71,8 @@ A clean and responsive calculator built using fundamental web technologies.
 
 🔗 **Repository:**  
 [Calculator App](https://github.com/vishwakarmasneha846-max/Calculator-app)
+🌐 **Live Demo:**  
+[Open WeatherWise](https://vishwakarmasneha846-max.github.io/WeatherWise/)
 
 ---
 
@@ -97,7 +99,7 @@ A responsive weather application that retrieves weather information for differen
 [WeatherWise](https://github.com/vishwakarmasneha846-max/WeatherWise)
 
 🌐 **Live Demo:**  
-[Open WeatherWise](https://vishwakarmasneha846-max.github.io/WeatherWise/)
+[Open WeatherWise](https://vishwakarmasneha846-max.github.io/Calculator-app/)
 
 ---
 
